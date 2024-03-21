@@ -1,4 +1,4 @@
-# Rugby
+# TvShows
 Wordpress Pamphlet
 
-[Edit Here](https://diy-pwa.com/~/gh/ThereseRistow/Rugby)
+[Edit Here](https://diy-pwa.com/~/gh/ThereseRistow/TvShows)
